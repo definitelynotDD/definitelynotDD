@@ -18,7 +18,7 @@ Built during my internship, PDF Toolkit is my go-to project for all things PDF �
 _Sadly, it can't turn my assignments in on time (yet)._
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/devanshu-das-68177a25a)
+- [LinkedIn](www.linkedin.com/in/devanshu-das)
 
 ## ⚽ Fun Facts
 - You'll find me on the football field when I'm not debugging.
