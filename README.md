@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm definitelynotDD! 👋
 
-<!--
-**definitelynotDD/definitelynotDD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> _"Coding, clouding, and always blocking my own chain of procrastination."_ 😄
 
-Here are some ideas to get you started:
+I'm a BTech student majoring in Computer Science & Engineering, passionate about turning ideas into code (and sometimes into working prototypes!).  
+From Python automation scripts to AI models and even dabbling in blockchain, I love exploring the tech universe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Tech Stack
+- **Languages:** Python, Java, JavaScript
+- **Web Dev:** HTML, CSS, JavaScript, a sprinkle of frameworks
+- **AI/ML:** Always experimenting with new models
+- **Cloud:** Deploying dreams, one VM at a time
+- **Blockchain:** Currently learning how to not lose my crypto
+
+## 🚀 Favorite Project
+### [PDF Toolkit](#)
+Built during my internship, PDF Toolkit is my go-to project for all things PDF – mergers, splitters, compressors, converters... you name it!  
+_Sadly, it can't turn my assignments in on time (yet)._
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/devanshu-das-68177a25a)
+
+## ⚽ Fun Facts
+- You'll find me on the football field when I'm not debugging.
+- I love reading short novels – it's the only time I finish something in one sitting!
+
+---
+
+> _“Eat, sleep, code, football, repeat. And occasionally, I read the docs.”_
