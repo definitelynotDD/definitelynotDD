@@ -12,10 +12,6 @@ From Python automation scripts to AI models and even dabbling in blockchain, I l
 - **Cloud:** Deploying dreams, one VM at a time
 - **Blockchain:** Currently learning how to not lose my crypto
 
-## 🚀 Favorite Project
-### [PDF Toolkit](#)
-Built during my internship, PDF Toolkit is my go-to project for all things PDF – mergers, splitters, compressors, converters... you name it!  
-_Sadly, it can't turn my assignments in on time (yet)._
 
 ## 🌐 Connect with Me
 - [LinkedIn](www.linkedin.com/in/devanshu-das)
