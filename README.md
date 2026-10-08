@@ -2,7 +2,7 @@
 
 > _"Coding, clouding, and always blocking my own chain of procrastination."_ 😄
 
-By day I work full time handling databases and automating legacy tasks (someone has to teach old processes new tricks). I also build RAG-based AI bots: chatbots that look things up in the docs before they answer, which is more than I can say for myself. BTech CSE grad (2026), Python by default, and I deploy to the cloud whenever a project deserves to outlive my laptop.
+By day I work full time handling databases and automating legacy tasks (someone has to teach old processes new tricks). After hours I build RAG-based AI bots, as volunteer projects and for the love of it, to keep up with the latest in AI. They're chatbots that look things up in the docs before answering, which is more than I can say for myself. BTech CSE grad (2026), Python by default, and I deploy to the cloud whenever a project deserves to outlive my laptop.
 
 - 💬 **Ask me about:** RAG-based AI bots, database work, and automating legacy tasks
 - 🤝 **Open to:** collaborating on Python, AI/ML, or cloud projects
