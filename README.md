@@ -2,8 +2,12 @@
 
 > _"Coding, clouding, and always blocking my own chain of procrastination."_ 😄
 
-I'm a BTech student majoring in Computer Science & Engineering, passionate about turning ideas into code (and sometimes into working prototypes!).  
-From Python automation scripts to AI models and even dabbling in blockchain, I love exploring the tech universe.
+I'm a BTech Computer Science & Engineering student who learns by building. Python is my go-to, for everything from automation scripts to AI/ML experiments, and I deploy to the cloud whenever a project deserves to outlive my laptop. Right now I'm digging into blockchain.
+
+I like taking an idea all the way to a working prototype, and I'm getting better at the "working" part.
+
+- 🔭 **Currently exploring:** blockchain and new ML models
+- 🤝 **Open to:** collaborating on Python, AI/ML, or cloud projects
 
 ## 🧑‍💻 Tech Stack
 - **Languages:** Python, Java, JavaScript
@@ -14,7 +18,7 @@ From Python automation scripts to AI models and even dabbling in blockchain, I l
 
 
 ## 🌐 Connect with Me
-- [LinkedIn](www.linkedin.com/in/devanshu-das)
+- [LinkedIn](https://www.linkedin.com/in/devanshu-das)
 
 ## ⚽ Fun Facts
 - You'll find me on the football field when I'm not debugging.
