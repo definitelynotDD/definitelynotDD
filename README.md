@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/football-banner.svg" width="100%" alt="Animated pixel-art football scene: definitelynotDD dribbles past a diving keeper and scores, and the scoreboard flips from DD 0-0 LEGACY to DD 1-0 LEGACY">
+</p>
+
 # Hi there, I'm definitelynotDD! 👋
 
 > _"Coding, clouding, and always blocking my own chain of procrastination."_ 😄
