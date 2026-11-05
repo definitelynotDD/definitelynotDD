@@ -2,16 +2,20 @@
 
 > _"Coding, clouding, and always blocking my own chain of procrastination."_ 😄
 
-By day I work full time handling databases and automating legacy tasks (someone has to teach old processes new tricks). After hours I build RAG-based AI bots as a volunteer with [Gyaandweep](https://gyaandweep.com) and [Frevo Technologies](https://www.frevotechnologies.in/), for the love of it and to keep up with the latest in AI. They're chatbots that look things up in the docs before answering, which is more than I can say for myself. BTech CSE grad (2026), Python by default, and I deploy to the cloud whenever a project deserves to outlive my laptop.
+By day I work full time handling databases and automating legacy tasks (someone has to teach old processes new tricks). After hours I volunteer with Gyaandweep and Frevo Technologies, building AI tools for the love of it and to keep up with the latest in AI. BTech CSE grad (2026), Python by default, and I deploy to the cloud whenever a project deserves to outlive my laptop.
 
-- 💬 **Ask me about:** RAG-based AI bots, database work, and automating legacy tasks
+- 💬 **Ask me about:** RAG-based AI bots, AI workflows, database work, and automating legacy tasks
 - 🤝 **Open to:** collaborating on Python, AI/ML, or cloud projects
+
+## 🚀 What I've Built
+- **[Gyaandweep](https://gyaandweep.com):** Worked extensively on library enrichment and built the platform's own personalised Acharya AI.
+- **[Frevo Technologies](https://www.frevotechnologies.in/):** Built the TenderTrack AI workflow end to end. Organisations can find and analyse tenders and run their entire approval system in one place.
 
 ## 🧑‍💻 Tech Stack
 - **Languages:** Python, Java, JavaScript
 - **Databases:** Handling them full time at my day job, so they don't handle me
 - **Automation:** Automating legacy tasks, also part of the day job
-- **AI/ML:** Building RAG-based AI bots, and always experimenting with new models
+- **AI/ML:** Building RAG-based AI bots and AI workflows, and always experimenting with new models
 - **Cloud:** Deploying dreams, one VM at a time
 - **Web Dev:** HTML, CSS, JavaScript, a sprinkle of frameworks
 - **Blockchain:** Dabbled in it, mostly learning how not to lose my crypto
